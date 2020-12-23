@@ -2,6 +2,7 @@
 	"author": "Anson Chow",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project to complete freeCodeCamp challenges.",
+	"keywords": [ "freecodecamp", "npm", "express" ],
 	"dependencies": {
 		"express": "^4.17.1"
 	},
